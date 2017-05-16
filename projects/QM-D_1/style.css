@@ -15,3 +15,11 @@ h1#primo_h1, p {
 .seconda_parte {
   font-family: sans-serif;
 }
+
+p > strong {
+  color: green
+}
+
+p  em {
+  font-variant: small-caps;
+}
