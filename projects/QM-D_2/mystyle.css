@@ -1,0 +1,16 @@
+h1{
+  color :black;
+  font-style: arial;
+  background:yellow;
+}
+h1#primo_h1{
+  border-width: thin;
+  border-color: black;
+  border-style: solid;
+}
+p > strong {
+  color:red;
+}
+p > em {
+  font-variant: small-caps;
+}
